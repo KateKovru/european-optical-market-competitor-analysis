@@ -78,8 +78,12 @@ on professional partner networks.
 ## Deliverables
 
 - [Excel analysis](analysis/European_Optical_Market_Competitor_Analysis.xlsx)
-- [Full report](report/European_Optical_Market_Competitor_Analysis_Report.pdf)
-- [Portfolio presentation](presentation/European_Optical_Market_Portfolio_Presentation.pdf)
+- [Full report (PDF)](report/European_Optical_Market_Competitor_Analysis_Report.pdf)
+- [Portfolio presentation (PDF)](presentation/European_Optical_Market_Portfolio_Presentation.pdf)
+
+**Editable source files:**
+- [Download report (DOCX)](report/European_Optical_Market_Competitor_Analysis_Report.docx)
+- [Download presentation (PPTX)](presentation/European_Optical_Market_Portfolio_Presentation.pptx)
 
 ## Skills demonstrated
 
