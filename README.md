@@ -3,6 +3,10 @@
 # European Optical Market & Competitor Analysis
 Market intelligence portfolio case analysing the European ophthalmic spectacle-lens market, German market dynamics and competitive positioning of Rodenstock, EssilorLuxottica, ZEISS and HOYA.
 
+> **Focus:** European ophthalmic spectacle lenses  
+> **Deep dive:** German optical market  
+> **Companies:** Rodenstock · EssilorLuxottica · ZEISS · HOYA
+
 ## Project objective
 
 The goal was to analyse market dynamics, competitive positioning and
