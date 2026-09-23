@@ -13,6 +13,8 @@ The project combines:
 - channel analysis
 - strategic interpretation
 
+![Market analysis dashboard](assets/dashboard.png)
+
 ## Scope
 
 The core analysis focuses on European prescription spectacle lenses.
@@ -32,6 +34,8 @@ Between 2022 and 2025:
 - spectacle lenses: 38.73m → 36.56m (-5.6%)
 
 This suggests that market value has been more resilient than physical volume.
+
+![German optical market development](assets/germany_market.png)
 
 ### 2. Personalisation is a common competitive theme
 
@@ -62,6 +66,8 @@ on professional partner networks.
 | Essilor | Varilux XR | Stellest | Crizal Sapphire HR |
 | ZEISS | ClearMind Individual 3 | MyoCare | DuraVision Plus Gold UV |
 | HOYA | Hoyalux iD MySense | MiYOSMART | Hi-Vision Meiryo |
+
+![Competitor benchmark](assets/competitor_benchmark.png)
 
 ## Deliverables
 
