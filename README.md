@@ -81,7 +81,7 @@ on professional partner networks.
 - [Full report](report/European_Optical_Market_Competitor_Analysis_Report.pdf)
 - [Portfolio presentation](presentation/European_Optical_Market_Portfolio_Presentation.pdf)
 
-## Tools
+## Skills demonstrated
 
 Microsoft Excel · Secondary Research · Competitor Analysis · Market
 Intelligence · Data Visualisation · Strategic Analysis
