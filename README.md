@@ -1,3 +1,5 @@
+**Portfolio project | Market Intelligence | September 2026**
+
 # European Optical Market & Competitor Analysis
 Market intelligence portfolio case analysing the European ophthalmic spectacle-lens market, German market dynamics and competitive positioning of Rodenstock, EssilorLuxottica, ZEISS and HOYA.
 
